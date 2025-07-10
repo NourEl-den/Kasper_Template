@@ -1148,7 +1148,7 @@ header nav .form i {
 
 /* Footer Section */
 
-.footer {
+footer {
     padding-top: calc(var(--section-padding) / 2);
     padding-bottom: calc(var(--section-padding) / 2);
     background-image: url(/Images/footer.jpeg);
@@ -1157,7 +1157,7 @@ header nav .form i {
     color: white;
     text-align: center;
 }
-.footer:before {
+footer:before {
     content: "";
     position: absolute;
     left: 0;
